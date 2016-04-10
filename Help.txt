@@ -1,0 +1,3 @@
+1- Please run the following command in Matlab window:
+   mex cec13_func.cpp -DWINDOWS   
+2- Execute the MGEP matlab script

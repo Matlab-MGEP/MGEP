@@ -20,4 +20,4 @@ is a modified gene expression programming framework designed to evolve
 existing metaheuristic algorithms. This code is specially implemented
 to evolve differential evolution (DE) algorithm. Please note that results
 of the other algorithms such as PSO, ABC, Cuckoo Search and CMAES will be
-add as soon as possible.
+available  as soon as possible.
